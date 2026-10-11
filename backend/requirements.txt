@@ -1,0 +1,9 @@
+argon2-cffi==25.1.0
+argon2-cffi-bindings==26.1.0
+Django==6.1.2
+django-cors-headers==4.9.0
+djangorestframework==3.18.3
+djangorestframework_simplejwt==5.5.1
+openpyxl==3.1.5
+PyOTP==2.10.0
+reportlab==5.0.1
